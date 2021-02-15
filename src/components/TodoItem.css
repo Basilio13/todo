@@ -1,0 +1,27 @@
+.item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: antiquewhite;
+    padding: .5rem 1rem;
+    margin: 10px;
+    border-radius: 5px;
+}
+
+.input-default {
+    margin-right: 1rem;
+}
+
+.button-default {
+    font-size: 15pt;
+    width: 40px;
+    height: 40px;
+    background-color: rgb(236, 87, 60);
+    border: none;
+    border-radius: 100%;
+    outline: none;
+}
+
+.done {
+    text-decoration: line-through;
+  }

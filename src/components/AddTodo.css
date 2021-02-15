@@ -1,0 +1,27 @@
+.input-line{
+    font-size: 22pt;
+    padding: 10px;
+    background-color: gainsboro;
+    border-radius: 5px;
+    outline: none;
+    border: none;
+}
+
+.button-add { 
+    margin: 10px;
+    border-radius: 100%;
+    color: burlywood;
+    font-weight: bold;
+    border: none;
+    outline: none;
+    background-color: royalblue;
+    width: 45px;
+    height: 45px;
+}
+
+.form-default { 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    vertical-align: middle;
+}
